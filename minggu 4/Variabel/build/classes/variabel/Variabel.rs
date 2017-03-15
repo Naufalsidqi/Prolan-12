@@ -1,0 +1,2 @@
+variabel.Variabel
+variabel.AksesVariabelStatic
